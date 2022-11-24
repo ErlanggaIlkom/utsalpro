@@ -5,7 +5,7 @@ class uts_alpro {
     int umur;
     int lahir;
     
-    a = "assalamual'aikum wr wb";
+    a = "assalamu'alaikum wr wb";
     nama = "Muhammad Erlangga Gunawan";
     umur = 19;
     lahir = 2003;
